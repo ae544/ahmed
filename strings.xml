@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">قفل الجيم</string>
+    <string name="settings_title">أيام وميعاد التذكير</string>
+    <string name="save">حفظ الإعدادات</string>
+    <string name="grant_overlay">اسمح بالظهور فوق التطبيقات</string>
+    <string name="grant_overlay_desc">التطبيق محتاج الإذن ده عشان يقفل الشاشة في معاد الجيم</string>
+    <string name="lock_title">معلش، الموبايل مقفول دلوقتي</string>
+    <string name="lock_sub">معاد الجيم بتاعك. ارفع صورة من الجيم عشان تفتح الموبايل تاني</string>
+    <string name="upload_photo">📷 ارفع صورة الجيم</string>
+    <string name="reminder_channel_name">تذكير الجيم</string>
+    <string name="reminder_notification_title">وقت الجيم!</string>
+    <string name="reminder_notification_text">دوس هنا وارفع صورة من الجيم قبل ما الموبايل يتقفل</string>
+</resources>

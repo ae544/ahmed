@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ToggleButton xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="4dp"
+    android:minWidth="46dp"
+    android:paddingHorizontal="10dp"
+    android:paddingVertical="10dp"
+    android:background="@drawable/day_chip_selector"
+    android:textColor="@color/text_dim"
+    android:textOn=""
+    android:textOff=""
+    android:textSize="13sp" />

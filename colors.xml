@@ -1,0 +1,10 @@
+<resources>
+    <color name="bg">#0E1210</color>
+    <color name="panel">#161C19</color>
+    <color name="panel2">#1E2521</color>
+    <color name="line">#2A332E</color>
+    <color name="lime">#C6FF3D</color>
+    <color name="amber">#FF8A3D</color>
+    <color name="text">#EEF2EE</color>
+    <color name="text_dim">#9AA79F</color>
+</resources>
